@@ -1,0 +1,5 @@
+title: Ubuntu 22.04.5 RAID1 Autoinstall
+description: /dev/nvme5n1 + /dev/nvme6n1 に RAID1 を構成し、UEFI + 両ディスクにGRUB、インストール時アップデート無しで導入する手順とファイル
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
